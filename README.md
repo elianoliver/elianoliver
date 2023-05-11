@@ -2,7 +2,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 </header>
 
-### Olá! Eu sou Elian Oliveira 👋
+### Olá! Eu sou o Elian Oliveira 👋
 
 ##
 
