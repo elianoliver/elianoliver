@@ -6,7 +6,7 @@
 
 ##
 
-[![Elian Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=elianoliver&show_icons=true&theme=radical)](https://github.com/elianoliver/github-readme-stats)
+[![ElianOliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=elianoliver&show_icons=true&theme=radical)](https://github.com/elianoliver/github-readme-stats)
 
 
 <div style="display: inline-block"><br>
