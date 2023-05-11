@@ -4,8 +4,7 @@
 
 ### Olá! Eu sou Elian Oliveira 👋
 <div>
-    <a href="https://github.com/elianoliver">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elianoliver&show_icons=true&theme=radical">
+[![Elian Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=elianoliver)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
