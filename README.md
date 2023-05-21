@@ -9,7 +9,7 @@ Sou um desenvolvedor júnior apaixonado por programação e tecnologia. Com habi
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elianoliver&show_icons=true&theme=radical)](https://github.com/elianoliver)
 
-<div style="display: flex; justify-content: space-around;"><br>
+<div><br>
     <img  height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img  height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img  height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -17,6 +17,8 @@ Sou um desenvolvedor júnior apaixonado por programação e tecnologia. Com habi
     <img  height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img  height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </div>
+
+
 
 ##
 
