@@ -26,7 +26,8 @@ Sou um desenvolvedor júnior apaixonado por programação e tecnologia. Com habi
 <div>
 <h1>Redes Sociais</h1>
 <a href="https://www.linkedin.com/in/elian-oliveira/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/elian_olivier_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>    
+<a href="https://www.instagram.com/elian_olivier_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
+<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=elianoliver&label=Profile%20Views&color=12&icon=0&pretty=true" /></a>
 </div>
 
     
