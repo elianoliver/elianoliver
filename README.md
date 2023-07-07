@@ -3,7 +3,7 @@
 </header>
 
 ### Olá! Eu sou Elian Oliveira 👋
-Sou um desenvolvedor júnior apaixonado por programação e tecnologia. Com habilidades em HTML, CSS e JavaScript, estou buscando oportunidades para expandir meu conhecimento e desenvolver minha carreira. Sou uma pessoa curiosa, com uma mente analítica e atenta aos detalhes, que se esforça para entender as necessidades dos usuários e criar soluções eficientes e eficazes. Ademais, estou sempre buscando aprender coisas novas e melhorar minhas habilidades técnicas.
+Sou um desenvolvedor FrontEnd apaixonado por programação e tecnologia. Com habilidades em HTML, CSS e JavaScript, estou buscando oportunidades para expandir meu conhecimento e desenvolver minha carreira. Sou uma pessoa curiosa, com uma mente analítica e atenta aos detalhes, que se esforça para entender as necessidades dos usuários e criar soluções eficientes e eficazes. Ademais, estou sempre buscando aprender coisas novas e melhorar minhas habilidades técnicas.
 ##
 
 <div align="center">
