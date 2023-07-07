@@ -3,7 +3,7 @@
 </header>
 
 ### Olá! Eu sou Elian Oliveira 👋
-Sou um desenvolvedor FrontEnd apaixonado por programação e tecnologia. Com habilidades em HTML, CSS e JavaScript, estou buscando oportunidades para expandir meu conhecimento e desenvolver minha carreira. Sou uma pessoa curiosa, com uma mente analítica e atenta aos detalhes, que se esforça para entender as necessidades dos usuários e criar soluções eficientes e eficazes. Ademais, estou sempre buscando aprender coisas novas e melhorar minhas habilidades técnicas.
+Eu tenho 22 anos, trabalho como desenvolvedor há quase 1 ano e tenho trabalhado como freelancer nos últimos 7 meses. Minha especialidade inclui React, HTML, CSS, Sass, JavaScript (ES6) e Bootstrap. 
 ##
 
 <div align="center">
