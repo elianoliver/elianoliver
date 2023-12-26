@@ -3,7 +3,7 @@
 </header>
 
 ### Olá! Eu sou Elian Oliveira 👋
-Meu nome é Elian, tenho 23 anos e estou cursando bacharelado em Sistemas de Informação no Instituto Federal Catarinense de Camboriú. Sou um desenvolvedor Full Stack apaixonado por programação e tecnologia, dedicado a encontrar as melhores soluções para resolver problemas e implementar projetos eficazes.
+Tenho 23 anos e estou cursando bacharelado em Sistemas de Informação no Instituto Federal Catarinense de Camboriú. Sou um desenvolvedor Full Stack apaixonado por programação e tecnologia, dedicado a encontrar as melhores soluções para resolver problemas e implementar projetos eficazes.
 
 Tenho experiência em Git, JavaScript, PostgreSQL, HTML, CSS, Node.js e também conhecimentos básicos em Python e Java. Minha trajetória inclui a resolução de problemas, correção de bugs e aprimoramento de códigos, sempre seguindo as melhores práticas de programação e enfatizando a importância do código limpo.
 ##
