@@ -32,7 +32,8 @@ Tenho experiência em Git, JavaScript, PostgreSQL, HTML, CSS, Node.js e também 
 
 <div>
 <h1>Redes Sociais</h1>
-<a href="https://www.linkedin.com/in/elian-oliveira/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8"></a>
+<a href="https://www.linkedin.com/in/elian-oliveira/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:elianoliveira234@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{elianoliver}/count.svg" /></p> 
 </div>
 
