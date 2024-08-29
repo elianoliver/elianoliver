@@ -10,9 +10,8 @@ Tenho experiência em Git, JavaScript, PostgreSQL, HTML, CSS, Node.js e também 
 
 <div align="center">
   <a href="https://github.com/elianoliver">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elianoliver&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=elianoliver&theme=radical&hide_border=false&locale=pt_BR&mode=weekly&card_width=790"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elianoliver&layout=compact&theme=radical"/>
 </div>
 
 
