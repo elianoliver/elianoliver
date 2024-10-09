@@ -3,9 +3,15 @@
 </header>
 
 ### Olá! Eu sou Elian Oliveira 👋
-Tenho 23 anos e estou cursando bacharelado em Sistemas de Informação no Instituto Federal Catarinense de Camboriú. Sou um desenvolvedor Full Stack apaixonado por programação e tecnologia, dedicado a encontrar as melhores soluções para resolver problemas e implementar projetos eficazes.
+Olá, sou Elian, um desenvolvedor Full Stack de 24 anos, cursando bacharelado em Sistemas de Informação no Instituto Federal Catarinense de Camboriú. Sou apaixonado por tecnologia e sempre busco soluções inovadoras.
 
-Tenho experiência em Git, JavaScript, PostgreSQL, HTML, CSS, Node.js e também conhecimentos básicos em Python e Java. Minha trajetória inclui a resolução de problemas, correção de bugs e aprimoramento de códigos, sempre seguindo as melhores práticas de programação e enfatizando a importância do código limpo.
+Competências:
+- Desenvolvimento Web: HTML, CSS, JavaScript, com experiência em React e Bootstrap.
+- Backend: Proficiência em Node.js e PostgreSQL, utilizando Express.js para criação de APIs.
+- Versionamento: Uso de Git para gerenciamento de código e colaboração.
+- Metodologias Ágeis: Familiaridade com Scrum e Kanban.
+
+Estou em busca de oportunidades na área de desenvolvimento de software, onde possa aplicar minhas habilidades e contribuir para projetos desafiadores.
 ##
 
 <div align="center">
