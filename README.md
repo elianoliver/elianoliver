@@ -16,8 +16,7 @@ Estou em busca de oportunidades na área de desenvolvimento de software, onde po
 
 <div align="center">
   <a href="https://github.com/elianoliver">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elianoliver&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elianoliver&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elianoliver&show_icons=true&theme=transparent"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elianoliver&layout=compact&theme=transparent"/></a>
 </div>
             
 <div>
