@@ -3,7 +3,7 @@
 </header>
 
 ### Olá! Eu sou Elian Oliveira 👋
-Olá, sou Elian, um desenvolvedor Full Stack de 24 anos, cursando bacharelado em Sistemas de Informação no Instituto Federal Catarinense de Camboriú. Sou apaixonado por tecnologia e sempre busco soluções inovadoras.
+Olá, sou Elian, um desenvolvedor Full Stack de 25 anos, formado em Bacharelado em Sistemas de Informação no Instituto Federal Catarinense de Camboriú. Sou apaixonado por tecnologia e sempre busco soluções inovadoras.
 
 Competências:
 - Desenvolvimento Web: HTML, CSS, JavaScript, com experiência em React e Bootstrap.
