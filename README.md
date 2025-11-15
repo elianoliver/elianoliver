@@ -10,8 +10,6 @@ Competências:
 - Backend: Proficiência em Node.js e PostgreSQL, utilizando Express.js para criação de APIs.
 - Versionamento: Uso de Git para gerenciamento de código e colaboração.
 - Metodologias Ágeis: Familiaridade com Scrum e Kanban.
-
-Estou em busca de oportunidades na área de desenvolvimento de software, onde possa aplicar minhas habilidades e contribuir para projetos desafiadores.
 ##
 
 <div align="center">
