@@ -10,12 +10,6 @@ Competências:
 - Backend: Proficiência em Node.js e PostgreSQL, utilizando Express.js para criação de APIs.
 - Versionamento: Uso de Git para gerenciamento de código e colaboração.
 - Metodologias Ágeis: Familiaridade com Scrum e Kanban.
-##
-
-<div align="center">
-  <a href="https://github.com/elianoliver">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elianoliver&show_icons=true&theme=transparent"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elianoliver&layout=compact&theme=transparent"/></a>
-</div>
             
 <div>
     <h1>Tecnologias</h1>
